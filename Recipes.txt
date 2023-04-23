@@ -6,3 +6,6 @@ python
 html
 CSS
 JavaScript
+
+python django
+Mysql
