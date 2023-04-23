@@ -9,5 +9,6 @@ JavaScript
 
 python django
 Mysql
+servar - AWS
 
 Done my changes
