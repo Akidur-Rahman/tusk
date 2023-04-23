@@ -4,3 +4,5 @@ Welcome to my github
 
 python
 html
+CSS
+JavaScript
